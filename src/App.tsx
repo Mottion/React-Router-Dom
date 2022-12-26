@@ -1,9 +1,9 @@
+import "./GlobalStyles.css";
 
 function App() {
-
   return (
-    <div>
-      hellow world
+    <div className="app">
+      Hellow World
     </div>
   )
 }
